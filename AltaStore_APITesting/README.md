@@ -5,26 +5,42 @@
 <table class="GeneratedTable">
   <thead>
     <tr>
-      <th>Header</th>
-      <th>Header</th>
-      <th>Header</th>
+      <th></th>
+      <th>executed</th>
+      <th>failed</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Cell</td>
-      <td>Cell</td>
-      <td>Cell</td>
+      <td>iterations</td>
+      <td>1</td>
+      <td>0</td>
     </tr>
     <tr>
-      <td>Cell</td>
-      <td>Cell</td>
-      <td>Cell</td>
+      <td>requests</td>
+      <td>6</td>
+      <td>0</td>
     </tr>
     <tr>
-      <td>Cell</td>
-      <td>Cell</td>
-      <td>Cell</td>
+      <td>test-scripts</td>
+      <td>6</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>prerequest-scripts</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>assertions</td>
+      <td>9</td>
+      <td>0</td>
     </tr>
   </tbody>
 </table>
+
+total run duration: 3.4s
+
+total data received: 512B (approx)
+
+average response time: 483ms [min: 306ms, max: 1360ms, s.d.: 391ms]
