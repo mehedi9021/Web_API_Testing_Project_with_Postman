@@ -1,6 +1,6 @@
 ## [@Alta Store](https://app.swaggerhub.com/apis/codecrafting/nabati-eds/v1#/auth) API Testing with Postman
 
-## Summery
+## Summery:
 
 <table class="GeneratedTable">
   <thead>
