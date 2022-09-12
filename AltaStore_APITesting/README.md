@@ -2,44 +2,4 @@
 
 ## Summery
 
-<table class="GeneratedTable">
-  <thead>
-    <tr>
-      <th>Header</th>
-      <th>Header</th>
-      <th>Header</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Cell</td>
-      <td>Cell</td>
-      <td>Cell</td>
-    </tr>
-    <tr>
-      <td>Cell</td>
-      <td>Cell</td>
-      <td>Cell</td>
-    </tr>
-    <tr>
-      <td>Cell</td>
-      <td>Cell</td>
-      <td>Cell</td>
-    </tr>
-    <tr>
-      <td>Cell</td>
-      <td>Cell</td>
-      <td>Cell</td>
-    </tr>
-    <tr>
-      <td>Cell</td>
-      <td>Cell</td>
-      <td>Cell</td>
-    </tr>
-    <tr>
-      <td>Cell</td>
-      <td>Cell</td>
-      <td>Cell</td>
-    </tr>
-  </tbody>
-</table>
+<img src="[pic_trulli.jpg](https://github.com/mehedi9021/Web_API_Testing_Project_with_Postman/blob/master/AltaStore_APITesting/AltaStoreAPI.postman_HTML_report.png)" alt="">
