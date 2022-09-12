@@ -2,31 +2,6 @@
 
 ## Summery
 
-<!-- CSS Code: Place this code in the document's head (between the 'head' tags) -->
-<style>
-table.GeneratedTable {
-  width: 100%;
-  background-color: #ffffff;
-border-collapse: separate;
-  border-width: 2px;
-  border-color: #0f0f0f;
-  border-style: solid;
-  color: #000000;
-}
-
-table.GeneratedTable td, table.GeneratedTable th {
-  border-width: 2px;
-  border-color: #0f0f0f;
-  border-style: solid;
-  padding: 3px;
-}
-
-table.GeneratedTable thead {
-  background-color: #ffffff;
-}
-</style>
-
-<!-- HTML Code: Place this code in the document's body (between the 'body' tags) where the table should appear -->
 <table class="GeneratedTable">
   <thead>
     <tr>
@@ -68,4 +43,3 @@ table.GeneratedTable thead {
     </tr>
   </tbody>
 </table>
-<!-- Codes by Quackit.com -->
