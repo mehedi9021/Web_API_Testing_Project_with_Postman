@@ -3,16 +3,6 @@
 ## Summery
 
 <html>
-   <head>
-      <style>
-         table, th, td {
-            border: 1px solid black;
-            width: 100px;
-            height: 50px;
-         }
-      </style>
-   </head>
-  
 <body>
 <table class="GeneratedTable">
   <thead>
