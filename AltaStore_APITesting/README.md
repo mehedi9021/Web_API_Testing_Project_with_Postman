@@ -2,33 +2,29 @@
 
 ## Summery
 
-<html>
-   <head>
-      <style>
-         table, th, td {
-            border: 1px solid black;
-            width: 1000px;
-            height: 5000px;
-         }
-      </style>
-   </head>
-
-   <body>
-      <h1>Heading</h1>
-      <table>
-         <tr>
-            <th colspan="2"></th>
-            <th></th>
-         </tr>
-         <tr>
-            <td></td>
-            <td></td>
-            <td rowspan="2"></td>
-         </tr>
-         <tr>
-            <td></td>
-            <td></td>
-         </tr>
-      </table>
-   </body>
-</html>
+<table class="GeneratedTable">
+  <thead>
+    <tr>
+      <th>Header</th>
+      <th>Header</th>
+      <th>Header</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Cell</td>
+      <td>Cell</td>
+      <td>Cell</td>
+    </tr>
+    <tr>
+      <td>Cell</td>
+      <td>Cell</td>
+      <td>Cell</td>
+    </tr>
+    <tr>
+      <td>Cell</td>
+      <td>Cell</td>
+      <td>Cell</td>
+    </tr>
+  </tbody>
+</table>
