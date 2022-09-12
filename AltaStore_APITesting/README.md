@@ -28,7 +28,7 @@
       <td>Cell</td>
     </tr>
     <tr>
-      <td>Cell</td>
+      <td>total run duration: 3.4s</td>
     </tr>
   </tbody>
 </table>
