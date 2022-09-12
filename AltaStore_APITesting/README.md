@@ -7,8 +7,8 @@
       <style>
          table, th, td {
             border: 1px solid black;
-            width: 100px;
-            height: 50px;
+            width: 1000px;
+            height: 500px;
          }
       </style>
    </head>
