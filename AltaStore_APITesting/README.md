@@ -2,6 +2,7 @@
 
 ## Summery
 
+<!-- CSS Code: Place this code in the document's head (between the 'head' tags) -->
 <style>
 table.GeneratedTable {
   width: 100%;
@@ -25,6 +26,7 @@ table.GeneratedTable thead {
 }
 </style>
 
+<!-- HTML Code: Place this code in the document's body (between the 'body' tags) where the table should appear -->
 <table class="GeneratedTable">
   <thead>
     <tr>
@@ -66,3 +68,4 @@ table.GeneratedTable thead {
     </tr>
   </tbody>
 </table>
+<!-- Codes by Quackit.com -->
